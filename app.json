@@ -9,7 +9,7 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=vZ9mhDKY#Z0HnFqY19X8tVluDe4KjDhNMjEKMirs--G7NINtFOoE"
         },
         "PREFIX": {
             "description": "put prefix here",
@@ -23,12 +23,12 @@
         "OWNER-NAME": {
             "description": "put Your name herd",
             "required": true,
-            "value": "Vajira"      
+            "value": "KING SHAANA"      
         },
         "OWNER_NUMBER": {
             "description": "put your number here",
             "required": true,
-            "value": "94719199757"
+            "value": "94717120796"
         },
         "IMAGE": {
             "description": "Put bot image url here",
